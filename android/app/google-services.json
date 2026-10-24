@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275530136983",
+    "project_id": "walkinhotels-d1467",
+    "storage_bucket": "walkinhotels-d1467.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275530136983:android:4ac11f201c43fa2e3b58d2",
+        "android_client_info": {
+          "package_name": "com.walkinhotel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ja4OmfXMJcikrWdJntntqFBX0dd2CPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
